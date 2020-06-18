@@ -1,0 +1,162 @@
+[
+    {
+        "ID": 1,
+        "restaurantName": "Subway",
+        "category": "restaurant",
+        "description": "fast-food sandwiches",
+        "longitude": 53.343602,
+        "latitude": -6.247392,
+        "details": "Subway is an American privately held restaurant franchise that primarily sells submarine sandwiches and salads. It is one of the fastest-growing franchises in the world and, as of October 2019, had 41,512 locations in more than 100 countries. More than half its locations are in the United States.",
+        "imageUrl": "https://b.zmtcdn.com/data/pictures/4/9100504/db9d7c01565e197cfcaf1992c8182cc6.jpg"
+    },
+    {
+        "ID": 2,
+        "restaurantName": "Centra",
+        "category": "restaurant",
+        "description": "newsagent with a deli",
+        "longitude": 53.342836,
+        "latitude": -6.249836,
+        "details": "€3.15 student roll",
+        "imageUrl": "https://fastly.4sqi.net/img/general/width960/92322689_iKouuyKcsLaSmKtFIEUH8E-STF28cFWqaLj2bPsTv-Y.jpg"
+    },
+    {
+        "ID": 3,
+        "restaurantName": "Zambrero",
+        "category": "restaurant",
+        "description": "Mexican food with a conscience",
+        "longitude": 53.343539,
+        "latitude": -6.247435,
+        "details": "Mexican food with a heart, good quality ingredients. Typically about 5$",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/68/f9/66/photo0jpg.jpg"
+    },
+    {
+        "ID": 4,
+        "restaurantName": "Tolteca",
+        "category": "restaurant",
+        "description": "Quick and easy mexican",
+        "longitude": 53.343429,
+        "latitude": -6.260087,
+        "details": "€7.35 burrito and drink",
+        "imageUrl": "https://www.tolteca.ie/images/slider-bg-1.jpg"
+    },
+    {
+        "ID": 5,
+        "restaurantName": "The Buttery Cafe",
+        "category": "restaurant",
+        "description": "Nice affordable cafe",
+        "longitude": 53.344953,
+        "latitude": -6.2573,
+        "details": "10% off with tcard",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/57e3e8ace58c6232570fa54a/1478024137176-TJ66H3A8GHSGG1OJAM4M/ke17ZwdGBToddI8pDm48kEILswtYWnv0T-VfufvaFSZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ooWhOa5cxQSJsU3rXf8luX0KzjmoqvzO6nQpSeQBV0FWdmMDpw-XlwGEabjzwMMcw/Buttery+Furniture+1+copy+1.jpg?format=2500w"
+    },
+    {
+        "ID": 6,
+        "restaurantName": "The Perch Cafe",
+        "category": "cafe",
+        "description": "Quick coffee on the go",
+        "longitude": 53.343396,
+        "latitude": -6.257311,
+        "details": "10% off with tcard",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Apple_orchard_in_Tasmania.jpg"
+    },
+    {
+        "ID": 7,
+        "restaurantName": "The Forum Cafe",
+        "category": "Cafe",
+        "description": "Guick coffee on the go",
+        "longitude": 53.344688,
+        "latitude": -6.253188,
+        "details": null,
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/9d/97/a4/forum-cafe.jpg"
+    },
+    {
+        "ID": 8,
+        "restaurantName": "Costa",
+        "category": "Cafe",
+        "description": "Nice, affordable coffe with plenty of seating",
+        "longitude": 53.342812,
+        "latitude": -6.250562,
+        "details": null,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Apple_orchard_in_Tasmania.jpg"
+    },
+    {
+        "ID": 9,
+        "restaurantName": "Camile Thai",
+        "category": "Thai food at an affordable price",
+        "description": "Quick and easy mexican",
+        "longitude": 53.344299,
+        "latitude": -6.249383,
+        "details": "€7 lunch menu",
+        "imageUrl": "https://www.camile.ie/wordpress/wp-content/uploads/2016/05/table-no-space-middle1.jpg"
+    },
+    {
+        "ID": 10,
+        "restaurantName": " O'Donovans",
+        "category": "Casual pub atmosphere",
+        "description": "Quick and easy mexican",
+        "longitude": 53.34418,
+        "latitude": -6.248881,
+        "details": "€3.50 roll",
+        "imageUrl": "https://s3-media2.fl.yelpcdn.com/bphoto/TJcX-fe_T3xL_4R6BjjWYg/348s.jpg"
+    },
+    {
+        "ID": 11,
+        "restaurantName": "Tang",
+        "category": "Good Middle-Eastern food quick",
+        "description": "Quick and easy mexican",
+        "longitude": 53.339563,
+        "latitude": -6.258563,
+        "details": "Top-quality middle-eastern food at an affordable price. You can look to spend between 7-9$ on some of the best falafel in the city. Won't be dissapointed!",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/1c/20/3a/brunch-bits.jpg"
+    },
+    {
+        "ID": 12,
+        "restaurantName": "KC Peaches",
+        "category": "restaurant",
+        "description": "Quick and easy mexican",
+        "longitude": 53.342701,
+        "latitude": -6.257251,
+        "details": "6 after 6 deal",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/59/58/47/kc-peaches-cafe-delicatessen.jpg"
+    },
+    {
+        "ID": 13,
+        "restaurantName": "The Pavilion",
+        "category": "restaurant",
+        "description": "Quick and easy mexican",
+        "longitude": 53.342756,
+        "latitude": -6.252908,
+        "details": "4 cans of pratski €10",
+        "imageUrl": "https://www.tcd.ie/disability/assets/img/Buildings/Pavilion.jpg"
+    },
+    {
+        "ID": 14,
+        "restaurantName": "The Dining Hall",
+        "category": "Restaurant",
+        "description": "Quick and easy mexican",
+        "longitude": 53.345062,
+        "latitude": -6.257563,
+        "details": null,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Apple_orchard_in_Tasmania.jpg"
+    },
+    {
+        "ID": 15,
+        "restaurantName": "Len Faki",
+        "category": "event",
+        "description": "Techno",
+        "longitude": 53.342756,
+        "latitude": -6.252908,
+        "details": "Len faki laying down the grooves all night long at district 8",
+        "imageUrl": "https://www.houseoffrankie.com/wportal/wp-content/uploads/2017/05/Len-Faki.jpg"
+    },
+    {
+        "ID": 16,
+        "restaurantName": "Take That",
+        "category": "event",
+        "description": "live-music",
+        "longitude": 53.345062,
+        "latitude": -6.257563,
+        "details": "Take that taking over the 3 arena for one last gig",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Take_That_performing_in_Glasgow%2C_2017.jpg/1280px-Take_That_performing_in_Glasgow%2C_2017.jpg"
+    }
+  ]
